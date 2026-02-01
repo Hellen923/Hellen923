@@ -2,8 +2,14 @@
 <h3 align="center">Full-Stack Developer • Problem Solver • Creative Thinker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=25&pause=1200&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Blending+logic+and+creativity;Crafting+meaningful+web+experiences;Always+learning%2C+always+growing" />
+  <!-- Light mode -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&center=true&vCenter=true&width=600&color=000000&lines=Full-Stack+Developer;Blending+logic+and+creativity;Crafting+meaningful+web+experiences;Always+learning%2C+always+growing#gh-light-mode-only" />
+
+  <!-- Dark mode -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&center=true&vCenter=true&width=600&color=58A6FF&lines=Full-Stack+Developer;Blending+logic+and+creativity;Crafting+meaningful+web+experiences;Always+learning%2C+always+growing#gh-dark-mode-only" />
 </p>
+<p align="center">⋆｡°✩ — — — ✩°｡⋆</p>
+
 
 
 
@@ -48,15 +54,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hellen923&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hellen923&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellen923&layout=compact&hide_border=true" />
 </p>
-
----
 
 <p align="center">
   💡 <i>Building quietly. Growing consistently.</i>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=90&section=footer&animation=fadeIn" />
+</p>
+
 
 
 <!--
