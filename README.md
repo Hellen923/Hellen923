@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hellen Tunwere</h1>
-<h3 align="center">Web Developer • Problem Solver • Creative Thinker</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=I+build+things+for+the+web;Django+%7C+Python+%7C+JavaScript;Clean+code+with+purpose;Always+learning+something+new" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="65"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&pause=1000&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Hellen+Tunwere;Web+Developer;Creative+Problem+Solver" />
+
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="65"/>
 </p>
+
 
 ---
 
@@ -17,19 +19,21 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
-- Python  
-- JavaScript  
-- Django  
+### 👩‍💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,django,nextjs" />
+</p>
 
-**Frontend**
-- HTML • CSS  
-- Bootstrap • Tailwind  
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+</p>
 
-**Tools**
-- Git & GitHub  
-- VS Code  
-- PostgreSQL / SQLite  
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode, PostgresSQL,aws,docker,figma,postman" />
+</p>
+
 
 ---
 
