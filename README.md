@@ -1,18 +1,19 @@
+<h1 align="center">Hi 👋, I'm Hellen Tunwere</h1>
+<h3 align="center">Full-Stack Developer • Problem Solver • Creative Thinker</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="65"/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&pause=1000&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Hellen+Tunwere;Web+Developer;Creative+Problem+Solver" />
-
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="65"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=25&pause=1200&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Blending+logic+and+creativity;Crafting+meaningful+web+experiences;Always+learning%2C+always+growing" />
 </p>
+
+
 
 
 ---
 
 ## 🌿 About Me
 
-✨ Passionate **Web Developer** focused on building useful, clean, and scalable web applications.  
-✨ I enjoy working with **Python, Django, and modern web tools**.  
+✨ Full-stack developer blending logic and creativity to build meaningful digital products.  
+✨ I enjoy exploring both frontend and backend to create seamless user experiences.    
 ✨ Always learning, always improving.
 
 ---
