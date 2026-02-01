@@ -36,6 +36,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </p>
 
+
+### 🎨 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=Postregres,SQL" />
+</p>
+
 ### ⚙️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode, PostgresSQL,aws,docker,figma,postman" />
