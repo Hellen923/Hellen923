@@ -57,11 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellen923&layout=compact&hide_border=true" />
-</p>
 
 <p align="center">
   💡 <i>Building quietly. Growing consistently.</i>
